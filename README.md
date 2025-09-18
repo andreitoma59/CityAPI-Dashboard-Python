@@ -2,6 +2,9 @@
 
 
 This repository contains a comprehensive city information dashboard built with Python and PyQt5. The application fetches and displays a wide range of real-time data for any given location by aggregating information from nine different public APIs. It serves as a one-stop-shop for weather, air quality, local amenities, and more, presented in a clean, dark-themed graphical user interface.
+<p>
+  <img src="./img/main.png" width="800">
+</p>
 
 ## Features
 
